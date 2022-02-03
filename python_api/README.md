@@ -1,1 +1,1 @@
-Aqui estão os projetos de python com api.
+Projetos com api e python.
